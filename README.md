@@ -9,7 +9,6 @@ This project was built by me using HTML, CSS  and JS to practice API fetching sk
 ![netflix-clone](https://user-images.githubusercontent.com/78431899/189544865-eb4c7755-4091-4583-a573-0349407a4093.png)
 
 
-
 ## Technologies Used
 * HTML
 * CSS
